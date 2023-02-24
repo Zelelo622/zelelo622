@@ -11,7 +11,6 @@ I'm Egor.
 ![css](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=blueviolet)
 ![JS](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
 ![REACT](https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&logoColor=white&color=succes)
-![POSTGRESQL](https://img.shields.io/badge/DB-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=red)
 ![POSTMAN](https://img.shields.io/badge/testing-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue)
 
 ## 🔗 Links
