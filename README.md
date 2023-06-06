@@ -1,4 +1,4 @@
-[![Social banner for Zelelo622](https://github.com/Zelelo622/zelelo622/blob/main/assets/hello-world.jpg)](https://github.com/Zelelo622?tab=repositories)
+[![Social banner for Zelelo622](https://github.com/Zelelo622/zelelo622/blob/main/assets/giphy.gif)](https://github.com/Zelelo622?tab=repositories)
 
 <h1 align='center'> Hi! <img src="https://github.com/Zelelo622/zelelo622/blob/main/assets/wave.gif" width="30px" height="30px" /></h1>
 <p align='center'>
