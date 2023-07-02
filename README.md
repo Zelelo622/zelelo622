@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://zelelo622.github.io/Resume/?randomquery">
-    <img src="https://github.com/Zelelo622/zelelo622/blob/main/assets/giphy.gif" alt="Social banner for Zelelo622" style="max-width: 300px;">
+    <img src="https://github.com/Zelelo622/zelelo622/blob/main/assets/giphy.gif" alt="Social banner for Zelelo622" style="max-width: 150px;">
   </a>
 </div>
 
