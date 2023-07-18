@@ -4,6 +4,9 @@
   </a>
   <img src="https://www.codewars.com/users/Zelelo622/badges/micro" alt="codewarse">
 </div>
+<div align="left">
+  <img src="https://www.codewars.com/users/Zelelo622/badges/large" alt="Codewars badge for Zelelo622">
+</div>
 
 ## 🔧 Technologies & Tools
 
