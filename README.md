@@ -2,6 +2,7 @@
   <a href="https://zelelo622.github.io/Resume/?randomquery">
     <img src="https://github.com/Zelelo622/zelelo622/blob/main/assets/giphy.gif" alt="Social banner for Zelelo622" style="max-width: 200px;">
   </a>
+  <img src="https://www.codewars.com/users/Zelelo622/badges/micro" alt="codewarse">
 </div>
 
 ## 🔧 Technologies & Tools
