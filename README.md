@@ -1,13 +1,15 @@
 <div align="center">
   <a href="https://zelelo622.github.io/Resume/?randomquery">
-    <img src="https://github.com/Zelelo622/zelelo622/blob/main/assets/giphy.gif" alt="Social banner for Zelelo622" style="max-width: 300px;">
+    <img src="https://github.com/Zelelo622/zelelo622/blob/main/assets/giphy.gif" alt="Social banner for Zelelo622" style="max-width: 200px;">
   </a>
 </div>
 
-<h1 align='center'> Hi! <img src="https://github.com/Zelelo622/zelelo622/blob/main/assets/wave.gif" width="30px" height="30px" /></h1>
-<p align='center'>
-I'm Egor.
-</p>
+&nbsp;
+
+<div align="left">
+  <img src="https://www.codewars.com/users/Zelelo622/badges/large" alt="Codewars badge for Zelelo622">
+</div>
+
 
 ## 🔧 Technologies & Tools
 
