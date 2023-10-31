@@ -13,15 +13,23 @@
 
 ## 🔧 Technologies & Tools
 
-![VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=orange)  
-![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=blueviolet)  
-![css](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=blueviolet)  
-![JS](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)  
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blueviolet)  
-![REACT](https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&logoColor=white&color=succes)  
-![MobX](https://img.shields.io/badge/State%20Management-MobX-informational?style=flat&logo=mobx&logoColor=white&color=blueviolet)  
-![Styled Components](https://img.shields.io/badge/Code-Styled%20Components-informational?style=flat&logo=styled-components&logoColor=white&color=blueviolet)  
-[![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)](https://your-git-link)  
+### Code Editors
+- ![VSCode](https://img.shields.io/badge/VS_Code-Editor-informational?style=flat&logo=visual-studio-code&logoColor=white&color=orange)
+
+### Languages
+- ![HTML](https://img.shields.io/badge/HTML-Code-informational?style=flat&logo=html5&logoColor=white&color=blueviolet)
+- ![CSS](https://img.shields.io/badge/CSS-Code-informational?style=flat&logo=css3&logoColor=white&color=blueviolet)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Code-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-Code-informational?style=flat&logo=typescript&logoColor=white&color=blueviolet)
+
+### Frameworks and Libraries
+- ![ReactJS](https://img.shields.io/badge/ReactJS-Framework-informational?style=flat&logo=react&logoColor=white&color=success)
+- ![MobX](https://img.shields.io/badge/MobX-State%20Management-informational?style=flat&logo=mobx&logoColor=white&color=blueviolet)
+- ![Styled Components](https://img.shields.io/badge/Styled%20Components-Code-informational?style=flat&logo=styled-components&logoColor=white&color=blueviolet)  
+- ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Animation-informational?style=flat&logo=framer&logoColor=white&color=blueviolet)
+
+### Version Control
+- [![Git](https://img.shields.io/badge/Git-Tools-informational?style=flat&logo=git&logoColor=white&color=blue)](https://your-git-link)
 
 ## 🔗 Links
 
