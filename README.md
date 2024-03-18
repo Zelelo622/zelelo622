@@ -11,6 +11,8 @@
 - ![MobX](https://img.shields.io/badge/MobX-Lib-informational?style=flat&logo=mobx&logoColor=white&color=blueviolet)
 - ![Styled Components](https://img.shields.io/badge/Styled%20Components-Lib-informational?style=flat&logo=styled-components&logoColor=white&color=blueviolet)  
 - ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Lib-informational?style=flat&logo=framer&logoColor=white&color=blueviolet)
+- ![Socket.IO](https://img.shields.io/badge/Socket.IO-Lib-informational?style=flat&logo=socket.io&logoColor=white&color=blueviolet)
+- ![React Router](https://img.shields.io/badge/React%20Router-Lib-informational?style=flat&logo=react-router&logoColor=white&color=blueviolet)
 
 ### Code Editors
 - ![VSCode](https://img.shields.io/badge/VS_Code-Editor-informational?style=flat&logo=visual-studio-code&logoColor=white&color=orange)
