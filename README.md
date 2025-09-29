@@ -13,6 +13,8 @@
 - ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Lib-informational?style=flat&logo=framer&logoColor=white&color=blueviolet)
 - ![Socket.IO](https://img.shields.io/badge/Socket.IO-Lib-informational?style=flat&logo=socket.io&logoColor=white&color=blueviolet)
 - ![React Router](https://img.shields.io/badge/React%20Router-Lib-informational?style=flat&logo=react-router&logoColor=white&color=blueviolet)
+- ![Storybook](https://img.shields.io/badge/Storybook-Lib-informational?style=flat&logo=storybook&logoColor=white&color=blueviolet)
+- ![React-Flow](https://img.shields.io/badge/React%20Flow-Lib-informational?style=flat&logo=react-flow&logoColor=white&color=blueviolet)
 
 ### Code Editors
 - ![VSCode](https://img.shields.io/badge/VS_Code-Editor-informational?style=flat&logo=visual-studio-code&logoColor=white&color=orange)
@@ -22,4 +24,4 @@
 
 ## 🔗 Links
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=telegram&logoColor=white&color=blueviolet)](https://t.me/Zelelo)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=telegram&logoColor=white&color=blueviolet)](https://t.me/EAKirin)
